@@ -1,4 +1,4 @@
-## Hi there 👋
+## Connor Ajersch
 
 <!--
 **connorajersch/connorajersch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💼 Embedded Electronics Designer @ CenterLine (Windsor) Ltd.
+- 💬 Ask me about ESP32, FreeRTOS, PCB Design
+- 📫 How to reach me: [connor@ajersch.com](mailto:connnor@ajersch.com)
+- 😄 Pronouns: He/Him
