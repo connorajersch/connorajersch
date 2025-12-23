@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 💼 Embedded Electronics Designer @ CenterLine (Windsor) Ltd.
 - 💬 Ask me about ESP32, FreeRTOS, PCB Design
 - 📫 How to reach me: [connor@ajersch.com](mailto:connnor@ajersch.com)
+- 👯 I’m looking to collaborate on my project, [tireswap](github.com/connorajersch/tireswap)
